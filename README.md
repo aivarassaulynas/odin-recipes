@@ -1,0 +1,1 @@
+Project to check skills learned in The Odin Project, HTML section. Paragraphs, Headings, Images, Links, Lists
